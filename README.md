@@ -1,6 +1,6 @@
 # Hi, I'm Xavier!
 
-## I'm learning how to code at Code Fellows!
+### I'm learning how to code at Code Fellows!
 
 This is where I'll keep my notes during class and keep track of my reading assignments.
 
