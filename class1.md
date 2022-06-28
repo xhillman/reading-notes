@@ -12,7 +12,6 @@ The basic syntax is summarized here:
 ###### The smallest heading
 ```
 
-
 > # The biggest heading
 > ## The second biggest heading
 > ###### The smallest heading
