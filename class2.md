@@ -16,4 +16,22 @@ Some features you might look for in a text editor are:
 3. **A variety of themes** - changes the overall colors of your text editor for a better user experience. (Pro Tip: Use a dark mode theme. It'll be easier on your eyes.)
 4. **A healthy selection of extensions to choose from** - allow you to add extra functionality to your editor that you wouldn't otherwise have access to.
 
+## The Command Line
+
+The command line is a text based interface on your computer, also known as the Terminal. It can achieve the same results as the Finder on a Mac, however, instead of using your mouse to navigate and create things such as new folders and files, you use text commands.
+
+### Common command line commands
+
+`pwd` or present working directory, is used to find out which directory or file you are currently interacting with.
+
+`ls` or list, is used to find out what files or directories are in the current directory. `ls -l` will format this list to make it more readable.
+
+`cd` or change directory is used to change into another directory or file.
+
+`mkdir` or make directory is used to create a new directory or folder.
+
+`touch` is used to create a new file within the current directory.
+
+`clear` is used to clear the terminal of all existing text. It does not change the current file or directory that you are in.
+
 [Home](README.md)
