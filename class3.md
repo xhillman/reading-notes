@@ -45,4 +45,44 @@ In the Terminal, follow these steps:
 > `$ git add LICENSE`
 > `$ git commit -m “any message here”`
 
+### Cloning
+
+You can create a copy of an existing Git repo using this command, subsituting the URL for the repo URL:
+
+> `git clone https://github.com/test`
+
+### Check file status
+
+Check the state of files using this command:
+
+> `$ git status`
+
+### Use the ACP method to add, commit and push files to GitHub
+
+#### Add
+
+Git will only add *saved* files. Make sure files are saved before adding.
+
+To a single file:
+
+> `git add <filename>`
+
+To add all saved files:
+
+> `$ git add .`
+
+#### Commit
+
+After staging, or adding, your saved files, you are ready to commit them. Use this command:
+
+> `$ git commit -m “made change x,y,z”`
+
+The text within the double quotes after the `-m` is the message that will be added with your commit.
+
+#### Push
+
+Once all saved files have been committed, you are ready to push all changes to GitHub using:
+
+> `$ git push origin main`
+
 [Home](README.md)

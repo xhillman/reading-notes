@@ -12,11 +12,11 @@ The basic syntax is summarized here:
 ###### The smallest heading
 ```
 
-> # The biggest heading
->
 > ## The second biggest heading
 >
 > ### The third biggest heading
+>
+> #### The fourth smallest heading
 
 **Paragraphs** are made by simply typing your text and leaving a blank space between one or more lines.
 
