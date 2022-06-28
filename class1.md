@@ -1,6 +1,6 @@
 # Markdown and GitHub: An Overview
 
-Markdown is used to format and style some files in GitHub. It is commonly used in README files and other files used to present content within GitHub.
+Markdown is used to format and style files in GitHub. It is commonly used in README files and other files used to present content within GitHub.
 
 The basic syntax is summarized here:
 
