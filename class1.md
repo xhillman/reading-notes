@@ -13,7 +13,9 @@ The basic syntax is summarized here:
 ```
 
 > # The biggest heading
+
 > ## The second biggest heading
+
 > ###### The smallest heading
 
 
@@ -81,4 +83,3 @@ And **ordered lists** by numbering your items.
 1. Item 1
 2. Item 2
 3. Item 3
-

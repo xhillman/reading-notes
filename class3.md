@@ -1,6 +1,6 @@
 # Intro to Git
 
-### What is version control?
+## What is version control?
 
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 
@@ -14,7 +14,7 @@ allows the main servier to be restored in the event of corruption.
 
 ### What is Git?
 
-Git is a DVCS that stores data in a file system made up of snapshots, or **commits** which are created every time a file is saved. Git is useful for 
+Git is a DVCS that stores data in a file system made up of snapshots, or **commits** which are created every time a file is saved. Git is useful for
 tracking changes in files as it saves a new snapshot that can be referenced and reverted to later.
 
 #### The 3 States of Git
@@ -31,13 +31,16 @@ tracking changes in files as it saves a new snapshot that can be referenced and 
 
 In the Terminal, follow these steps:
 
-1. Switch to the target project’s directory
+- Switch to the target project’s directory
+
 > `$ cd test (cd = change directory)`
 
-2. Use the git init command
+- Use the git init command
+
 > `$ git init`
 
-3. To start tracking these repository files, perform an initial commit by typing the following:
+- To start tracking these repository files, perform an initial commit by typing the following:
+
 > `$ git add *.c`
 > `$ git add LICENSE`
 > `$ git commit -m “any message here”`

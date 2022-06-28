@@ -14,3 +14,7 @@ Some reminders to stay in a growth mindset:
   - The way I'm doing this may not be the best way. How can I use this as an opportunity to become better?
 
 You can find my GitHub portfolio [here](https://github.com/xhillman).
+
+- [Class 1 Markdown](class1.md)
+- [Class 2 The Coder's Computer](class2.md)
+- [Class 3 Git & GitHub](class3.md)
