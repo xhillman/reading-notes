@@ -5,7 +5,7 @@ features that others don't offer. Can you use it to build the project you're wor
 
 The best advice I could give would be to use the text editor that you enjoy using the most. It's that simple.
 
-### What is a text editor?
+## What is a text editor?
 
 A text editor is one of the most important tools you'll use as a developer. It's a piece of software that allows you to write and manage text.
 

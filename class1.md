@@ -6,22 +6,21 @@ The basic syntax is summarized here:
 
 **Headings** are created using one to six `#` symbols followed by a space and some text.
 
-```
+```text
 # The biggest heading
 ## The second biggest heading
 ###### The smallest heading
 ```
 
 > # The biggest heading
-
+>
 > ## The second biggest heading
-
-> ###### The smallest heading
-
+>
+> ### The third biggest heading
 
 **Paragraphs** are made by simply typing your text and leaving a blank space between one or more lines.
 
-```
+```text
 This is a paragraph.
 
 And so is this.
@@ -29,20 +28,19 @@ And so is this.
 
 You can make text **bold** by using two `*` symbols on either side of a word like this:
 
-```
+```text
 A bold **word** in a sentence.
 ```
 
 Using a single `*` makes words *italic*, like this:
 
-```
+```text
 An italic *word* in a sentence.
 ```
 
-
 You can make blockquotes by using the > symbol before a paragraph.
 
-```
+```text
 > This is a blockquote.
 ```
 
@@ -50,7 +48,7 @@ You can make blockquotes by using the > symbol before a paragraph.
 
 You can also do multi-line blockquotes by putting a > symbol with an empty line.
 
-```
+```text
 > My first sentence.
 >
 > My second sentence.
@@ -62,7 +60,7 @@ You can also do multi-line blockquotes by putting a > symbol with an empty line.
 
 You can make **unordered lists** by using the `-` symbol:
 
-```
+```text
 - Item 1
 - Item 2
 - Item 3
@@ -74,7 +72,7 @@ You can make **unordered lists** by using the `-` symbol:
 
 And **ordered lists** by numbering your items.
 
-```
+```text
 1. Item 1
 2. Item 2
 3. Item 3

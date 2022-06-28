@@ -8,7 +8,7 @@ Many years ago, most developers used a Local Version Control System (LVCS) which
 
 Then came Centralized Version Control Systems (CVCS) which allowed multiple parties to store and see changes on a single database server.
 
-Today we land at Decentralized Version Control Systems (DVCS) which prevents the problem of a single point of failure that can come with an CVCS. 
+Today we land at Decentralized Version Control Systems (DVCS) which prevents the problem of a single point of failure that can come with an CVCS.
 A DVCS allows clients to make cloned copies of database files so that they can be accessed even if something were to happen to the main server. It also
 allows the main servier to be restored in the event of corruption.
 
