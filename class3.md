@@ -44,3 +44,5 @@ In the Terminal, follow these steps:
 > `$ git add *.c`
 > `$ git add LICENSE`
 > `$ git commit -m “any message here”`
+
+[Home](README.md)

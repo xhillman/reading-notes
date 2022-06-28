@@ -15,3 +15,5 @@ Some features you might look for in a text editor are:
 2. **Syntax highlighting** - colorizes different attributes of your code for better readability.
 3. **A variety of themes** - changes the overall colors of your text editor for a better user experience. (Pro Tip: Use a dark mode theme. It'll be easier on your eyes.)
 4. **A healthy selection of extensions to choose from** - allow you to add extra functionality to your editor that you wouldn't otherwise have access to.
+
+[Home](README.md)
