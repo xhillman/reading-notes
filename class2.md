@@ -34,4 +34,16 @@ The command line is a text based interface on your computer, also known as the T
 
 `clear` is used to clear the terminal of all existing text. It does not change the current file or directory that you are in.
 
+### Some closing notes on files
+
+- Everything is technically a file
+
+  - Text files, directories, your keyboard and even your monitor is a file
+
+- File extentions are the 2 - 4 characters after a file name that denote what *type* of file it is
+
+- You **can** use spaces in file names, but be careful as the command line may consider some words characters and not recognize them as part of the file name (anything inside quotes is considered a single item)
+
+- The `\` symbol is an escape character which nullifies the speical meaning of the next character
+
 [Home](README.md)
