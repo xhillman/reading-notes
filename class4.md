@@ -86,7 +86,7 @@ An HTML elements is made up of:
 
 `<head>`
 
-`<body`
+`<body>`
 
 `<main>`
 
