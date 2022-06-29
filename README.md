@@ -19,3 +19,4 @@ You can find my GitHub portfolio [here](https://github.com/xhillman).
 - [Class 2 The Coder's Computer](class2.md)
 - [Class 3 Git & GitHub](class3.md)
 - [Class 4 Wireframes and HTML](class4.md)
+- [Class 5 CSS](class5.md)
