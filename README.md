@@ -20,3 +20,4 @@ You can find my GitHub portfolio [here](https://github.com/xhillman).
 - [Class 3 Git & GitHub](class3.md)
 - [Class 4 Wireframes and HTML](class4.md)
 - [Class 5 CSS](class5.md)
+- [Class 6 Javascript](class6.md)

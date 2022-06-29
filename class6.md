@@ -110,3 +110,5 @@ Every input or output of a computer is a type of information, which can be repre
 A CPU is the master chip that controls all the other parts of the computer.
 
 The operating system is the master program that manages how software gets to use the hardware of the computer.
+
+[Home](README.md)
