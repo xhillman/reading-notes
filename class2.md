@@ -1,4 +1,6 @@
-# Choosing a Text Editor
+# The Coder's Computer
+
+## Choosing a Text Editor
 
 Let me start by saying that the text editor you end up choosing is a personal choice. They're all fairly similar, though some may come with some additional
 features that others don't offer. Can you use it to build the project you're working on from start to finish? Yes? Then you've got the text editor for you.
