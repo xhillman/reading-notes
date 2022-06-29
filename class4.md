@@ -8,7 +8,7 @@ The process focuses on how the designer wants the user to process information fr
 
 Wireframing helps you plan the layout and interaction of your site without the distraction of colors, typeface choice or text.
 
-## Wireframe Examples
+![Wireframe](img/pexels-picjumbocom-196645.jpg)
 
 ## Things to consider
 
@@ -62,4 +62,46 @@ Once you have all this documentation, you can start to work on your first protot
 
 1. **Clarity** - Your wireframe just needs to answer the question of what the site is, what the user can do there, and if it satisfies their needs.
 
-2. **Confidence** - bj
+2. **Confidence** - Use familiar navigation processes to avoid making your page unpredictable. This will ensure users are confident in the site and your brand.
+
+3. **Simplicity is key** - Too much information, copy or links can be distracting. Users should be able to navigate your site with little friction.
+
+## HTML Basics
+
+### Hypertext Markup Language
+
+- HTML makes up the structure of your webpage.
+
+- All elements of HTML create boxes.
+
+An HTML elements is made up of:
+
+- an opening tag `<p>`
+
+- the contents `<p>the contents`
+
+- and a closing tag `<p>the contents</p>`
+
+### Some basic HTML elements
+
+`<head>`
+
+`<body`
+
+`<main>`
+
+`<h1>`
+
+`<h2>`
+
+`<p>`
+
+`<footer>`
+
+`<section>`
+
+Some HTML elements are considered *semantic*, which means they give meaning to the element and webpage.
+
+For more information on semantic HTML, click [here](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+[Home](README.md)
