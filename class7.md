@@ -80,14 +80,14 @@ A unary operator requires a single operand, either before or after the operator:
 
 `x++` or `++x`
 
-(+) Addition
-(-) Subtraction
-(*) Multiplication
-(**) Exponentiation (ES2016)
-(/) Division
-(%) Modulus (Division Remainder)
-(++) Increment
-(--) Decrement
+- (+) Addition
+- (-) Subtraction
+- (*) Multiplication
+- (**) Exponentiation (ES2016)
+- (/) Division
+- (%) Modulus (Division Remainder)
+- (++) Increment
+- (--) Decrement
 
 An **assignment operator** assigns a value to its left operand based on the value of its right operand:
 
@@ -105,15 +105,15 @@ Remainder assignment: `x %= 5` is the same as `x = x % 5`
 
 A **comparison operator** compares its operands and returns a logical value based on whether the comparison is true.
 
-(==) equal to
-(===) equal value and equal type
-(!=) not equal
-(!==) not equal value or not equal type
-(>) greater than
-(<) less than
-(>=) greater than or equal to
-(<=) less than or equal to
-(?) ternary operator
+- (==) equal to
+- (===) equal value and equal type
+- (!=) not equal
+- (!==) not equal value or not equal type
+- (>) greater than
+- (<) less than
+- (>=) greater than or equal to
+- (<=) less than or equal to
+- (?) ternary operator
 
 **Logical operators** are typically used with Boolean (logical) values; when they are, they return a Boolean value.
 
