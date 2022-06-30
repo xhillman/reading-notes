@@ -4,35 +4,35 @@
 
 An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = f() is an assignment expression that assigns the value of f() to x.
 
-Assignment `x = f()` >  `x = f()`
-Addition assignment `x += f()` > `x = x + f()`
-Subtraction assignment `x -= f()` > `x = x - f()`
-Multiplication assignment `x *= f()` > `x = x * f()`
-Division assignment `x /= f()` > `x = x / f()`
-Remainder assignment `x %= f()` > `x = x % f()`
-Exponentiation assignment `x **= f()` > `x = x ** f()`
-Left shift assignment `x <<= f()` > `x = x << f()`
-Right shift assignment `x >>= f()` > `x = x >> f()`
-Unsigned right shift assignment `x >>>= f()` > `x = x >>> f()`
-Bitwise AND assignment `x &= f()` > `x = x & f()`
-Bitwise XOR assignment `x ^= f()` > `x = x ^ f()`
-Bitwise OR assignment `x |= f()` > `x = x | f()`
-Logical AND assignment `x &&= f()` > `x && (x = f())`
-Logical OR assignment `x ||= f()` > `x || (x = f())`
-Logical nullish assignment `x ??= f()` > `x ?? (x = f())`
+- Assignment `x = f()` >  `x = f()`
+- Addition assignment `x += f()` > `x = x + f()`
+- Subtraction assignment `x -= f()` > `x = x - f()`
+- Multiplication assignment `x *= f()` > `x = x * f()`
+- Division assignment `x /= f()` > `x = x / f()`
+- Remainder assignment `x %= f()` > `x = x % f()`
+- Exponentiation assignment `x **= f()` > `x = x ** f()`
+- Left shift assignment `x <<= f()` > `x = x << f()`
+- Right shift assignment `x >>= f()` > `x = x >> f()`
+- Unsigned right shift assignment `x >>>= f()` > `x = x >>> f()`
+- Bitwise AND assignment `x &= f()` > `x = x & f()`
+- Bitwise XOR assignment `x ^= f()` > `x = x ^ f()`
+- Bitwise OR assignment `x |= f()` > `x = x | f()`
+- Logical AND assignment `x &&= f()` > `x && (x = f())`
+- Logical OR assignment `x ||= f()` > `x || (x = f())`
+- Logical nullish assignment `x ??= f()` > `x ?? (x = f())`
 
 ## Comparison operators
 
 A comparison operator compares two values and returns a logical value (`true` or `false`) based on whether the comparison is true. The values can be numerical, string, logical, or object values.
 
-Equal (`==`) returns `true` if the operands are equal. `3 == var1` or `"3" == var1`
-Not equal (`!=`) returns `true` if the operands are not equal. `var1 != 4` or `var2 != "3"`
-Strict equal (`===`) returns `true` if the operands are equal and of the same type. See also Object.is and sameness in JS. `3 === var1`
-Strict not equal (`!==`) returns `true` if the operands are of the same type but not equal, or are of different type. `var1 !== "3"` or `3 !== '3'`
-Greater than (`>`) returns `true` if the left operand is greater than the right operand. `var2 > var1` or `"12" > 2`
-Greater than or equal (`>=`) returns `true` if the left operand is greater than or equal to the right operand. `var2 >= var1` or `var1 >= 3`
-Less than (`<`) returns `true` if the left operand is less than the right operand. `var1 < var2` or `"2" < 12`
-Less than or equal (<=) returns `true` if the left operand is less than or equal to the right operand. `var1 <= var2` or `var2 <= 5`
+- Equal (`==`) returns `true` if the operands are equal. `3 == var1` or `"3" == var1`
+- Not equal (`!=`) returns `true` if the operands are not equal. `var1 != 4` or `var2 != "3"`
+- Strict equal (`===`) returns `true` if the operands are equal and of the same type. See also Object.is and sameness in JS. `3 === var1`
+- Strict not equal (`!==`) returns `true` if the operands are of the same type but not equal, or are of different type. `var1 !== "3"` or `3 !== '3'`
+- Greater than (`>`) returns `true` if the left operand is greater than the right operand. `var2 > var1` or `"12" > 2`
+- Greater than or equal (`>=`) returns `true` if the left operand is greater than or equal to the right operand. `var2 >= var1` or `var1 >= 3`
+- Less than (`<`) returns `true` if the left operand is less than the right operand. `var1 < var2` or `"2" < 12`
+- Less than or equal (<=) returns `true` if the left operand is less than or equal to the right operand. `var1 <= var2` or `var2 <= 5`
 
 ## Loops and iteration
 
