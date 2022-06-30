@@ -1,6 +1,6 @@
 # Programming with Javascript
 
-### Control Flow
+## Control Flow
 
 The *control flow* is the order in which the computer executes statements in a script.
 
@@ -44,14 +44,13 @@ Not equal (`!=`) returns `true` if the operands are not equal. `var1 != 4` or `v
 
 Strict equal (`===`) returns `true` if the operands are equal and of the same type. `3 === 3`
 
-Strict not equal (`!==`) returns `true` if the operands are of the same type but not equal, or are of different type. `var1 !== "3"` or 
-`3 !== '3'`
+Strict not equal (`!==`) returns `true` if the operands are of the same type but not equal, or are of different type. `var1 !== "3"` or `3 !== '3'`
 
 Greater than (`>`) returns `true` if the left operand is greater than the right operand. `var2 > var1` or `"12" > 2`
 
 Greater than or equal (`>=`) returns `true` if the left operand is greater than or equal to the right operand. `var2 >= var1` or `var1 >= 3`
 
-Less than (`<`)	returns `true` if the left operand is less than the right operand. `var1 < var2`
+Less than (`<`) returns `true` if the left operand is less than the right operand. `var1 < var2`
 "2" < 12
 
 Less than or equal (`<=`) returns `true` if the left operand is less than or equal to the right operand. `var1 <= var2` or `var2 <= 5`
