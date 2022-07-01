@@ -48,4 +48,12 @@ The command line is a text based interface on your computer, also known as the T
 
 - The `\` symbol is an escape character which nullifies the speical meaning of the next character
 
-[Home](README.md)
+- [Home](README.md)
+- [Class 1 Markdown](class1.md)
+- [Class 2 The Coder's Computer](class2.md)
+- [Class 3 Git & GitHub](class3.md)
+- [Class 4 Wireframes and HTML](class4.md)
+- [Class 5 CSS](class5.md)
+- [Class 6 Javascript Basics](class6.md)
+- [Class 7 Programming with Javascript](class7.md)
+- [Class 8 Operators and Loops](class8.md)

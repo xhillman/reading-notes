@@ -104,4 +104,12 @@ Some HTML elements are considered *semantic*, which means they give meaning to t
 
 For more information on semantic HTML, click [here](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-[Home](README.md)
+- [Home](README.md)
+- [Class 1 Markdown](class1.md)
+- [Class 2 The Coder's Computer](class2.md)
+- [Class 3 Git & GitHub](class3.md)
+- [Class 4 Wireframes and HTML](class4.md)
+- [Class 5 CSS](class5.md)
+- [Class 6 Javascript Basics](class6.md)
+- [Class 7 Programming with Javascript](class7.md)
+- [Class 8 Operators and Loops](class8.md)

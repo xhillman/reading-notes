@@ -111,4 +111,12 @@ A CPU is the master chip that controls all the other parts of the computer.
 
 The operating system is the master program that manages how software gets to use the hardware of the computer.
 
-[Home](README.md)
+- [Home](README.md)
+- [Class 1 Markdown](class1.md)
+- [Class 2 The Coder's Computer](class2.md)
+- [Class 3 Git & GitHub](class3.md)
+- [Class 4 Wireframes and HTML](class4.md)
+- [Class 5 CSS](class5.md)
+- [Class 6 Javascript Basics](class6.md)
+- [Class 7 Programming with Javascript](class7.md)
+- [Class 8 Operators and Loops](class8.md)
