@@ -1,27 +1,34 @@
 # Hi, I'm Xavier
 
-## I'm learning how to code at Code Fellows
+I'm learning how to code at Code Fellows!
 
-This is where I'll keep my notes during class and keep track of my reading assignments.
+## Code 201 Reading Notes
 
-To me, a **growth mindset** is knowing that where I am now is *not* where I'll always be.
+- [Class 1](201class1.md)
+- [Class 2](201class2.md)
+- [Class 3](201class3.md)
+- [Class 4](201class4.md)
+- [Class 5](201class5.md)
+- [Class 6](201class6.md)
+- [Class 7](201class7.md)
+- [Class 8](201class8.md)
+- [Class 9](201class9.md)
+- [Class 10](201class10.md)
+- [Class 11](201class11.md)
+- [Class 12](201class12.md)
+- [Class 13](201class13.md)
+- [Class 14](201class14.md)
+- [Class 15](201class15.md)
 
-Some reminders to stay in a growth mindset:
+## Code 102 Reading Notes
 
-- Make the best decisions you can with the information you have.
-- If I got 1% better today, it was a win.
-- I don't know the answer right now, but where can I find it?
-- The way I'm doing this may not be the best way. How can I use this as an opportunity to become better?
+- [Class 1 - Markdown](class1.md)
+- [Class 2 - The Coder's Computer](class2.md)
+- [Class 3 - Git & GitHub](class3.md)
+- [Class 4 - Wireframes and HTML](class4.md)
+- [Class 5 - CSS](class5.md)
+- [Class 6 - Javascript Basics](class6.md)
+- [Class 7 - Programming with Javascript](class7.md)
+- [Class 8 - Operators and Loops](class8.md)
 
 You can find my GitHub portfolio [here](https://github.com/xhillman).
-
-- [Class 1 Markdown](class1.md)
-- [Class 2 The Coder's Computer](class2.md)
-- [Class 3 Git & GitHub](class3.md)
-- [Class 4 Wireframes and HTML](class4.md)
-- [Class 5 CSS](class5.md)
-- [Class 6 Javascript Basics](class6.md)
-- [Class 7 Programming with Javascript](class7.md)
-- [Class 8 Operators and Loops](class8.md)
-
-Hello World
