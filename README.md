@@ -1,10 +1,10 @@
 # Hi, I'm Xavier
 
-![Code Fellows](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*MghnV-Q6kiAeO-ZQQreitA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40A1000WordsAbout%2Fcode-fellows-journey-3331db98e34a&tbnid=_qedA_tyufkgLM&vet=12ahUKEwjw69WIh-f4AhXcsHIEHRaSCDgQMygGegUIARC6AQ..i&docid=k8fmKYiJFmfqAM&w=1342&h=444&itg=1&q=code%20fellows&ved=2ahUKEwjw69WIh-f4AhXcsHIEHRaSCDgQMygGegUIARC6AQ)
+![Code Fellows](img/code%20fellows%20logo.png)
 
 I'm learning how to code at **Code Fellows**!
 
-This website will act as my second brain as I make my way through the course. Here you will find a collection of reading notes for each class in the Code Fellows program. The site will continue to be updated as I progress.
+This website will act as my second brain as I make my way through the program. Here you will find a collection of reading notes for each class in the Code Fellows bootcamp. The site will continue to be updated as I progress.
 
 ## Code 201 Reading Notes
 
