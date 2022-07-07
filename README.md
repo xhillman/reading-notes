@@ -2,6 +2,8 @@
 
 I'm learning how to code at Code Fellows!
 
+This website will act as my second brain as I make my way through the course. Here you will find a collection of reading notes for each class in the Code Fellows program. The site will continue to be updated as I progress.
+
 ## Code 201 Reading Notes
 
 - [Class 1](201class1.md)
