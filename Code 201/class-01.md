@@ -48,6 +48,6 @@ Attributes contain extra information about HTML elemenets that won't be included
 
 In the example above, the `class` attribute is an identifying name used to target the element with style information.
 
-### Describe the Anatomy of an HTMl element.
+### Describe the Anatomy of an HTMl element
 
-An HTML element begins with an opening tag 
+An HTML element begins with an opening tag
