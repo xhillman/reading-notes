@@ -26,13 +26,13 @@ This website will act as my second brain as I make my way through the program. H
 
 ## Code 102 Reading Notes
 
-- [Class 1 - Markdown](class1.md)
-- [Class 2 - The Coder's Computer](class2.md)
-- [Class 3 - Git & GitHub](class3.md)
-- [Class 4 - Wireframes and HTML](class4.md)
-- [Class 5 - CSS](class5.md)
-- [Class 6 - Javascript Basics](class6.md)
-- [Class 7 - Programming with Javascript](class7.md)
-- [Class 8 - Operators and Loops](class8.md)
+- [Class 1 - Markdown](102class1.md)
+- [Class 2 - The Coder's Computer](102class2.md)
+- [Class 3 - Git & GitHub](102class3.md)
+- [Class 4 - Wireframes and HTML](102class4.md)
+- [Class 5 - CSS](102class5.md)
+- [Class 6 - Javascript Basics](102class6.md)
+- [Class 7 - Programming with Javascript](102class7.md)
+- [Class 8 - Operators and Loops](102class8.md)
 
 You can find my GitHub portfolio [here](https://github.com/xhillman).
