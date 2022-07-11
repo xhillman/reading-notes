@@ -1,8 +1,10 @@
-# Foundations of a Web Page
+# Class 1
+
+## Foundations of a Web Page
 
 Understanding how the web works and the basic building blocks of a web page are the foundation for learning software development.
 
-## Ode to HTTP
+### Ode to HTTP
 
 From DNS server, we find true address.
 To server, from browser is sent a request.
@@ -57,7 +59,7 @@ Attributes contain extra information about HTML elemenets that won't be included
 
 In the example above, the `class` attribute is an identifying name used to target the element with style information.
 
-### Describe the Anatomy of an HTMl element
+### Describe the Anatomy of an HTML element
 
 `<p>A paragraph element</p>`
 
