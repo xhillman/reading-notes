@@ -8,7 +8,7 @@ This website will act as my second brain as I make my way through the program. H
 
 ## Code 201 Reading Notes
 
-- [Class 1](/Code 201/class-01.md)
+- [Class 1 - Foundations of a Web Page](/Code 201/class-01.md)
 - [Class 2](/Code 201/class-02.md)
 - [Class 3](/Code 201/class-03.md)
 - [Class 4](/Code 201/class-04.md)
