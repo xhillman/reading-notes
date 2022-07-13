@@ -11,7 +11,7 @@ This website will act as my second brain as I make my way through the program. H
 - [Class 1 - Foundations of a Web Page](/Code 201/class-01.md)
 - [Class 2 - Basics of HTML, CSS and JS](/Code 201/class-02.md)
 - [Class 3 - Lists, Control Flow with JS, and the CSS Box Model](/Code 201/class-03.md)
-- [Class 4](/Code 201/class-04.md)
+- [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](/Code 201/class-04.md)
 - [Class 5](/Code 201/class-05.md)
 - [Class 6](/Code 201/class-06.md)
 - [Class 7](/Code 201/class-07.md)
