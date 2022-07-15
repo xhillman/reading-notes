@@ -98,3 +98,5 @@ An `if...else` statement could be used in a script that determines whether you s
 Loops are useful when you need to perform a repetitive task. For example, if you needed to find half of all numbers in an array, you could use a loop to go through each item instead of doing it manually.
 
 ## Things I want to know more about
+
+[Home](README.md)

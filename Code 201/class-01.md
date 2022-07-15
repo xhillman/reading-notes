@@ -148,3 +148,5 @@ Dynamically updating text requires Javascript in the browser because it relies o
 ```
 
 ## Things I want to know more about
+
+[Home](README.md)

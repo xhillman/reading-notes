@@ -64,3 +64,5 @@ Learning from fellow students: I know that when it comes to programming, their i
 Job interview readiness: Knowing that I will most likely have to do some sort of pair programming during interviews, getting comfortable with pair programming now will allow me to perform more effectively when it comes time to land a job.
 
 ## Things I want to know more about
+
+[Home](README.md)

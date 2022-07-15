@@ -115,3 +115,5 @@ An if statement checks an **expression** and if it evaluates to **true**, then t
 `||` stands for **or**: at least one of the expressions must evaluate to `true` to produce a `true` result.
 
 ## Things I want to know more about
+
+[Home](README.md)
