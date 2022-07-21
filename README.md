@@ -16,7 +16,7 @@ This website will act as my second brain as I make my way through the program. H
 - [Class 6 - Problem Domain, Objects, and the DOM](/Code 201/class-06.md)
 - [Class 7 - Object-Oriented Programming, HTML Tables](/Code 201/class-07.md)
 - [Class 8 - CSS Layout](/Code 201/class-08.md)
-- [Class 9](/Code 201/class-09.md)
+- [Class 9 - Forms and JS Events](/Code 201/class-09.md)
 - [Class 10](/Code 201/class-10.md)
 - [Class 11](/Code 201/class-11.md)
 - [Class 12](/Code 201/class-12.md)
